@@ -26,10 +26,6 @@ The app uses an API and has an in-app browser functionality, making it easy to s
 
 ![1](https://github.com/utk145/Monkey_News/assets/122993091/f676e298-d869-4395-9c61-8fe7112b5646) ![2](https://github.com/utk145/Monkey_News/assets/122993091/8e20ad08-bf77-466d-a60a-68ba2a471dd7)   ![3](https://github.com/utk145/Monkey_News/assets/122993091/71248af4-dc2e-40ae-9df3-5d364a578876)
 
+![4](https://github.com/utk145/Monkey_News/assets/122993091/b39254da-ff68-466f-aafe-65db74abae29)    ![5](https://github.com/utk145/Monkey_News/assets/122993091/5bbeffe9-654d-460c-8ded-d8ece03c0155)  ![6](https://github.com/utk145/Monkey_News/assets/122993091/e2ecab2c-4447-4ce3-a567-99a49076f7fd)
 
-
-![4](https://github.com/utk145/Monkey_News/assets/122993091/b39254da-ff68-466f-aafe-65db74abae29)   
 ![7](https://github.com/utk145/Monkey_News/assets/122993091/151dc645-250f-45c3-924c-c05907ab41ef)
-
-
-
