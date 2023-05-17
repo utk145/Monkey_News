@@ -23,9 +23,9 @@ The app uses an API and has an in-app browser functionality, making it easy to s
 - Read full articles within the app using the in-app browser functionality. 🔍
 - Simple and easy-to-use UI. 🤓
 
-
+<!-- 
 [Download the app apk](https://expo.dev/artifacts/eas/2Wun1b1EuXWpbhhtJpToJN.apk)
-
+ -->
 
 ![1](https://github.com/utk145/Monkey_News/assets/122993091/f676e298-d869-4395-9c61-8fe7112b5646) ![2](https://github.com/utk145/Monkey_News/assets/122993091/8e20ad08-bf77-466d-a60a-68ba2a471dd7)   ![3](https://github.com/utk145/Monkey_News/assets/122993091/71248af4-dc2e-40ae-9df3-5d364a578876)
 
