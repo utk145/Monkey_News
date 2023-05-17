@@ -24,10 +24,12 @@ The app uses an API and has an in-app browser functionality, making it easy to s
 - Simple and easy-to-use UI. 🤓
 
 
-![image1](/news_gifs/1.gif)
-![image2](/news_gifs/2.gif)
-![image3](/news_gifs/3.gif)
-![image4](/news_gifs/4.gif)
-![image5](/news_gifs/5.gif)
-![image6](/news_gifs/6.gif)
-![image7](/news_gifs/7.gif)
+![1](https://github.com/utk145/Monkey_News/assets/122993091/f676e298-d869-4395-9c61-8fe7112b5646) ![2](https://github.com/utk145/Monkey_News/assets/122993091/8e20ad08-bf77-466d-a60a-68ba2a471dd7)   ![3](https://github.com/utk145/Monkey_News/assets/122993091/71248af4-dc2e-40ae-9df3-5d364a578876)
+
+
+
+![4](https://github.com/utk145/Monkey_News/assets/122993091/b39254da-ff68-466f-aafe-65db74abae29)   
+![7](https://github.com/utk145/Monkey_News/assets/122993091/151dc645-250f-45c3-924c-c05907ab41ef)
+
+
+
