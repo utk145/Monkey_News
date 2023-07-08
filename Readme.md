@@ -22,6 +22,10 @@ The app uses an API and has an in-app browser functionality, making it easy to s
 - Browse news articles in various categories. 📰
 - Read full articles within the app using the in-app browser functionality. 🔍
 - Simple and easy-to-use UI. 🤓
+## Deployment
+Please click on this [link](https://expo.dev/@utk14/newsapp?serviceType=classic&distribution=expo-go) and scan the QR Code using ExpoGo Application (from Play Store) or scan the QR Code below.
+
+<img src="https://github.com/utk145/Monkey_News/assets/122993091/7f058999-65d8-4338-82b7-8932049c712a" width="300" alt="qr-code">
 
 <!-- 
 [Download the app apk](https://expo.dev/artifacts/eas/2Wun1b1EuXWpbhhtJpToJN.apk)
